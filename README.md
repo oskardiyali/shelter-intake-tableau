@@ -8,7 +8,7 @@ Using Excel for data cleaning and Tableau for visualization, I built dashboards 
 ---
 
 ## 1. Project Overview
-- Cleaned & standardized **150k+ outcome records** in Excel  
+- Cleaned & standardized **160k+ outcome records** in Excel  
 - Converted animal ages (days → years) using custom formulas  
 - Encoded sterilization/sex outcomes  
 - Removed 277 rows with missing critical data  
@@ -44,7 +44,7 @@ Here’s a preview of most popular adopted cats and dogs by breed:
 ---
 
 ## 5. Project Presentation
-`project_presentation_slides.pdf`
+`presentation_slides.pdf`
 
 ---
 

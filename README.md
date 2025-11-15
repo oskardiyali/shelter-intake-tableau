@@ -36,6 +36,10 @@ Download the full Tableau workbook: https://drive.google.com/file/d/1X9sJb0TcknK
 
 ## 4. Dashboard Previews
 
+Here’s a preview of most popular adopted cats and dogs by breed:
+
+![Cats and Dogs by Breed](images_CD/Popular_Cats_Dogs.png)
+
 
 ---
 
